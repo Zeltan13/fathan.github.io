@@ -41,6 +41,7 @@
   border-bottom: 1px solid currentColor;
 }
 
+
 .text-white-link {
   color: white;
 
@@ -51,10 +52,7 @@ a.text-blue:link  {
   color: blue;
   border-bottom: 1px solid currentColor;
 }
-a.text-white-link:link  {
-  color: white;
-  border-bottom: 1px solid currentColor;
-}
+
 
 /* Link color after being clicked on and visited */
 a.text-blue:visited {
